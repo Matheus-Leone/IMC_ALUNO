@@ -13,6 +13,7 @@ Esta atividade é requisito da Avaliação Continuada 2
 *Crie ainda uma classe chamada FuncoesUteis com os métodos para:
 
 *Verificar cpf;
+
 *Calcular o IMC (Índice de Massa Corporal);
 
 *Avaliar o aluno onde nota >= 5 e presença >= 75% → Aprovado.
