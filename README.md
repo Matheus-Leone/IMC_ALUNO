@@ -14,8 +14,11 @@ Esta atividade é requisito da Avaliação Continuada 2
 
 *Verificar cpf;
 *Calcular o IMC (Índice de Massa Corporal);
+
 *Avaliar o aluno onde nota >= 5 e presença >= 75% → Aprovado.
+
 *Crie uma classe chamada Main que possui o método main() para testar as demais classes.
+
 *Todas as classes devem ter seus atributos encapsulados e métodos construtores. 
 
 
